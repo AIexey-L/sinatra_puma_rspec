@@ -1,0 +1,5 @@
+/Gemfile.lock
+/config/mongo.yml
+.rubocop.yml
+/vendor/*
+/.bundle/*
